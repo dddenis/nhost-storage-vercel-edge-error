@@ -1,0 +1,15 @@
+{
+  "name": "nhost-storage-vercel-edge-error",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nhost/nhost-js": "2.2.13",
+    "next": "13.4.10"
+  }
+}
